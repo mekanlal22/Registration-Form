@@ -1,0 +1,50 @@
+body{
+    background-color: dodgerblue;
+    
+}
+.container{
+
+    h2{
+        margin-left: 20px;
+    }
+    p{
+        color: rgb(182, 170, 170);
+        margin-left: 20px;
+        font-weight: bold;
+    }
+    label{
+        font-weight: bold;
+        margin-left:20px ;
+    }
+    input{
+        border-radius: 5px;
+        border-color: rgb(230, 218, 218);
+        width: 225px; height: 40px;
+        padding: 15px;
+        margin-left: 20px;
+    }
+    Button{
+        background-color: rgb(97, 97, 221);
+        width: 200px;
+        color: white;
+        padding: 5px;
+        margin-left: 20px;
+        font-weight: bold;
+        font-size: 20px;
+        border: none;
+        border-radius: 5px;
+    }
+    width: 900px;
+    height: 550px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 40px;
+    border-radius: 5px;
+    
+}
+.row{
+    border-color:2px solid red;
+}
+.col{
+    border-color:green;
+}
